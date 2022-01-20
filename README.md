@@ -2,7 +2,7 @@
 
 
 
-[logo]: https://github.com/0analitics/Git/blob/main/avatar_komp.png "Logo Title Text 20"
+[logo]: https://github.com/0analitics/Git/blob/main/avatar_komp.png "Logo Title Text 1"
 
 <!--
 **0analitics/0analitics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
