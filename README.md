@@ -1,8 +1,8 @@
-# Hi I'm Paulina 👋  ![alt text][logo]
+# Hi, I'm Paulina 👋  ![alt text][logo]
 
 
 
-[logo]: https://github.com/0analitics/Git/blob/main/avatar_komp.png "Logo Title Text 2"
+[logo]: https://github.com/0analitics/Git/blob/main/avatar_komp.png "Logo Title Text 20"
 
 <!--
 **0analitics/0analitics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
