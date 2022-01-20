@@ -1,4 +1,4 @@
-# Hi, I'm Paulina 👋                   ![alt text][logo]
+![alt text][logo]
 
 
 
