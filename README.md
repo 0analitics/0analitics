@@ -1,5 +1,7 @@
 ### Hi I'm Paulina 👋 
 
+![alt text][logo]
+
 [logo]: https://github.com/0analitics/Git/blob/main/avatar_komp.png "Logo Title Text 2"
 
 <!--
